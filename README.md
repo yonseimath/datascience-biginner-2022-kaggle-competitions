@@ -6,6 +6,7 @@
 
 - CodeBert with TPU(Original Ver, Epoch 5) : 0.8137
 - XGBoost(Original Ver) : Submission Scoring Error
+- Sorting Ensemble: Pairwise + CodeBERT(Original Ver) : 0.8428
 
 
 ### 박영현
